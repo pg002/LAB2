@@ -11,7 +11,7 @@ class bnkacnt{
     bnkacnt(){
         name=" ";
         accno=0;
-        acctype="";
+        acctype=LAB2"";
         balamt=0;
 
     }
